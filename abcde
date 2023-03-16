@@ -1,0 +1,1 @@
+<script> document.getElementByID("d1").style.backgroundColor = "red" </script>
